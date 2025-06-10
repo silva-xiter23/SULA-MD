@@ -72,29 +72,11 @@
         </a>
       </td>
       <td align="center">
-        <a href="https://app.koyeb.com/services/deploy?type=git&repository=SULA-MD-NEW/SULA-MD" target="_blank">
-          <img src="https://img.shields.io/badge/Deploy%20to-Koyeb-FF2D95?style=for-the-badge&logo=koyeb&logoColor=white" alt="Koyeb"/>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="https://railway.app/new" target="_blank">
-          <img src="https://img.shields.io/badge/Deploy%20to-Railway-121212?style=for-the-badge&logo=railway&logoColor=white" alt="Railway"/>
-        </a>
-      </td>
-      <td align="center">
         <a href="https://dashboard.render.com/web/new" target="_blank">
           <img src="https://img.shields.io/badge/Deploy%20to-Render-00C7A9?style=for-the-badge&logo=render&logoColor=white" alt="Render"/>
         </a>
       </td>
     </tr>
-    <tr>
-      <td align="center">
-        <a href="https://app.netlify.com/" target="_blank">
-          <img src="https://img.shields.io/badge/Deploy%20to-Netlify-00ADB5?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/>
-        </a>
-      </td>
       <td align="center">
         <a href="https://talkdrove.com" target="_blank">
           <img src="https://img.shields.io/badge/Deploy%20via-TalkDrove-6B47FF?style=for-the-badge&logo=github&logoColor=white" alt="TalkDrove"/>
