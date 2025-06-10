@@ -62,10 +62,7 @@
 <hr>
 
 <h2 align="center">🚀 Deployment Options</h2>
-
-<div align="center">
-  <table cellspacing="20">
-    <tr>
+      </td>
       <td align="center">
         <a href="https://dashboard.heroku.com/new-app?template=https://github.com/SULA-MD-NEW/SULA-MD" target="_blank">
           <img src="https://img.shields.io/badge/Deploy%20to-Heroku-7A3E9D?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku"/>
