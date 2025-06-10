@@ -110,11 +110,16 @@
 
 <hr>
 
- ## ⚠️ Disclaimer
+## ⚠️ Disclaimer 
 
-- ❗ 𝐒𝐔𝐋𝐀-𝐌𝐃 is **not affiliated with WhatsApp Inc.**
+- ✅ SULA-MD does **not violate WhatsApp's policies** and is designed to be safe for general use.
+
+- 🔐 It operates within WhatsApp’s terms of service, making it a more secure choice for users.
+
+- ⚠️ Please use responsibly and avoid any misuse.
+
 - 🛑 Dont Cloning or modifying without credit.
-
+- 
 <hr>
 
 ### <br>   DEPLOY_WORKFLOWS 
