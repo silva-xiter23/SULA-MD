@@ -110,9 +110,11 @@
 
 <hr>
 
- </p>
-    <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=𝐖𝐄𝐋𝐂𝐎𝐌𝐄+𝐓𝐎+𝐒𝐔𝐋𝐀-𝐌𝐃+𝐁𝐎𝐓" alt="Typing SVG" /></a>
+ ## ⚠️ Disclaimer
+
+- ❗ 𝐒𝐔𝐋𝐀-𝐌𝐃 is **not affiliated with WhatsApp Inc.**
+- 🚫 Misuse can lead to bans. Use at your own risk.
+- 🛑 Dont Cloning or modifying without credit.
 
 <hr>
 
