@@ -75,7 +75,7 @@
       </td>
     </tr>
       <td align="center">
-        <a href="https://talkdrove.com" target="_blank">
+        <a href="https://host.talkdrove.com/share-bot/79" target="_blank">
           <img src="https://img.shields.io/badge/Deploy%20via-TalkDrove-6B47FF?style=for-the-badge&logo=github&logoColor=white" alt="TalkDrove"/>
         </a>
       </td>
@@ -113,7 +113,6 @@
  ## ⚠️ Disclaimer
 
 - ❗ 𝐒𝐔𝐋𝐀-𝐌𝐃 is **not affiliated with WhatsApp Inc.**
-- 🚫 Misuse can lead to bans. Use at your own risk.
 - 🛑 Dont Cloning or modifying without credit.
 
 <hr>
